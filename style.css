@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+img {
+	padding: 10px;
+}
+p {
+	font-family: Times new Roman;
+	padding: 3px;
+	color: black;
+}
+#one {
+	color: blue;
+}
+#two {
+	color: green;
+}
+#three {
+	font-family: Arial;
+}
+#four {
+	font-size: 14px;
+	color: orange;
+}
+.container {
+	text-align: center;
+	color: white;
+}
+a {
+    display: block;
+    text-align: center;
+}
